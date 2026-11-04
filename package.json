@@ -1,0 +1,23 @@
+{
+  "name": "penhankaran",
+  "version": "0.0.1",
+  "description": "پنهان‌کاران - بازی نقش‌های مخفی (Social Deduction)",
+  "main": "src/js/main.js",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Build script to be added'",
+    "test": "echo 'Tests to be added'"
+  },
+  "keywords": [
+    "game",
+    "persian",
+    "farsi",
+    "party-/-social-games"
+  ],
+  "author": "andrbi107",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrbi107/Penhankaran.git"
+  }
+}
